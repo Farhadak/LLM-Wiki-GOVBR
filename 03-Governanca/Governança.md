@@ -122,7 +122,13 @@ A estrutura institucional poderá considerar:
 Essas recomendações exigem fundamentação
 complementar e validação humana.
 
-## 5. Conexões com a Wiki
+## 5. Notas temáticas de Governança
+
+- [[Supervisão Humana e Responsabilidade]] —
+  revisão crítica, responsabilidade pelas decisões
+  e mecanismos de supervisão institucional.
+
+## 6. Conexões com a Wiki
 
 - [[Fundamentos]] — conceitos e limitações da IAG.
 - [[Riscos]] — identificação e análise de riscos.
@@ -132,7 +138,7 @@ complementar e validação humana.
 Novas notas de governança serão vinculadas
 após elaboração e auditoria individual.
 
-## 6. Rastreabilidade
+## 7. Rastreabilidade
 
 - Fonte cadastrada: [[FONTE-001]]
 - Documento: [[guia-ia-generativa-normalizado]]
