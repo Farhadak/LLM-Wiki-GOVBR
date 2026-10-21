@@ -1,0 +1,3 @@
+51f50c844d7f8691b9094c910ec52c1717918f85e17d4a34ebbd537fd2927321  01-Fontes/guia-ia-generativa-original.html
+1c3ee66b7fd606367e3de087e6a55fea90f4d368d8a1f769141d5e3b96d32afc  01-Fontes/PDFs/acessibilidade-digital.pdf
+2b67c80afdccd7cfe5ae5878af522e2545229540e9fc12701e9c41c2b6548507  01-Fontes/PDFs/guia-ia-tcu.pdf
