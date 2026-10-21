@@ -49,6 +49,8 @@ e passar por validação humana.
   características, limitações e implicações para governança.
 - [[Grandes Modelos de Linguagem]] — funcionamento,
   limitações, RAG e implicações para governança.
+- [[Geração Aumentada via Recuperação]] — recuperação
+  de informações, rastreabilidade e governança.
 
 A ampliação desta seção dependerá da leitura e classificação
 dos demais trechos relevantes da fonte primária.
