@@ -127,6 +127,9 @@ complementar e validação humana.
 - [[Supervisão Humana e Responsabilidade]] —
   revisão crítica, responsabilidade pelas decisões
   e mecanismos de supervisão institucional.
+- [[Transparência e Auditabilidade da IA Generativa]] —
+  publicidade, explicabilidade, auditabilidade
+  e limites de acesso às informações dos modelos.
 
 ## 6. Conexões com a Wiki
 
