@@ -36,6 +36,9 @@ linhas 102–104.
 - [[Alucinações na IA Generativa]] — informações
   incorretas ou fabricadas, referências inexistentes,
   fatores associados e medidas de mitigação.
+- [[Vieses na IA Generativa]] — oito categorias
+  apresentadas pelo guia, possíveis impactos
+  discriminatórios e medidas de mitigação.
 
 Novas notas serão incorporadas após levantamento
 documental, elaboração e auditoria individual.
