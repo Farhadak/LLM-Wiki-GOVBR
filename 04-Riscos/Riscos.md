@@ -40,6 +40,10 @@ linhas 102–104.
   apresentadas pelo guia, possíveis impactos
   discriminatórios e medidas de mitigação.
 
+- [[Classificação de Riscos dos Sistemas de IA]] —
+  risco excessivo, alto, moderado e baixo,
+  conforme categorização apresentada pelo guia.
+
 Novas notas serão incorporadas após levantamento
 documental, elaboração e auditoria individual.
 
