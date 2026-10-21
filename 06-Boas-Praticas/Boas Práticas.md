@@ -177,17 +177,22 @@ por esta nota.
 
 ## 5. Notas temáticas de Boas Práticas
 
-As seguintes notas poderão ser elaboradas
-após levantamento e auditoria específicos:
+A primeira nota temática foi elaborada
+e auditada individualmente:
 
-- Revisão humana e validação de conteúdo.
+- [[Revisão Humana e Validação de Conteúdo]] —
+  verificação factual, revisão crítica,
+  validação especializada e decisão humana.
+
+Permanecem planejados os seguintes temas:
+
 - Conduta institucional e responsabilidade.
 - Credenciais e informações protegidas.
 - Critérios de escolha de ferramentas.
 - Competências digitais e literacia em IA.
 
-Os títulos acima são temas planejados,
-não vínculos para notas já existentes.
+Os quatro temas acima ainda não possuem
+notas temáticas próprias neste eixo.
 
 ## 6. Conexões com a Wiki
 
