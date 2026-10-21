@@ -133,6 +133,9 @@ complementar e validação humana.
 - [[Governança e Proteção de Dados na IA Generativa]] —
   confidencialidade, LGPD, governança de dados
   e controles institucionais de segurança.
+- [[Ética e Princípios da IA Generativa]] —
+  legalidade, impessoalidade, moralidade,
+  publicidade, eficiência e direitos fundamentais.
 
 ## 6. Conexões com a Wiki
 
