@@ -47,6 +47,8 @@ e passar por validação humana.
 
 - [[Inteligência Artificial Generativa]] — definição,
   características, limitações e implicações para governança.
+- [[Grandes Modelos de Linguagem]] — funcionamento,
+  limitações, RAG e implicações para governança.
 
 A ampliação desta seção dependerá da leitura e classificação
 dos demais trechos relevantes da fonte primária.
