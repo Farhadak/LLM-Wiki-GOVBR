@@ -45,8 +45,13 @@ e passar por validação humana.
 
 ## 4. Notas temáticas
 
-A desenvolver após leitura e classificação dos trechos
-relevantes da fonte primária.
+- [[Inteligência Artificial Generativa]] — definição,
+  características, limitações e implicações para governança.
+
+A ampliação desta seção dependerá da leitura e classificação
+dos demais trechos relevantes da fonte primária.
+
+**Estado da nota:** rascunho, revisão humana pendente.
 
 ## 5. Rastreabilidade
 
