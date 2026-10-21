@@ -130,6 +130,9 @@ complementar e validação humana.
 - [[Transparência e Auditabilidade da IA Generativa]] —
   publicidade, explicabilidade, auditabilidade
   e limites de acesso às informações dos modelos.
+- [[Governança e Proteção de Dados na IA Generativa]] —
+  confidencialidade, LGPD, governança de dados
+  e controles institucionais de segurança.
 
 ## 6. Conexões com a Wiki
 
