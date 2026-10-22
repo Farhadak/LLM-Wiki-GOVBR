@@ -69,6 +69,20 @@ Documentos internos:
 - [[guia-ia-generativa-normalizado]] — texto normalizado utilizado para referências por linha.
 - [[Referências]] — catálogo das 17 referências bibliográficas citadas no guia.
 
+### Acervo documental e cadeia de proveniência
+
+Os documentos abaixo permitem acompanhar a transformação técnica do guia federal em arquivos Markdown, preservando a distinção entre a fonte original e as versões processadas.
+
+- [[INVENTARIO]] — inventário dos documentos preservados no repositório.
+- [[PROVENIENCIA]] — registro da cadeia documental, das assinaturas SHA-256 e das intervenções realizadas.
+- [[guia-ia-generativa-preliminar]] — primeira conversão do HTML para Markdown.
+- [[guia-ia-generativa-estruturado]] — versão com a organização de títulos e seções.
+- [[guia-ia-generativa-normalizado]] — versão utilizada como referência textual na Wiki.
+
+**Critério de preservação:** os documentos-fonte não devem ser modificados apenas para melhorar sua representação no grafo do Obsidian. As conexões são estabelecidas nas notas editoriais.
+
+A presença desses documentos no repositório não constitui certificação de autenticidade pelo órgão publicador.
+
 A organização da Wiki diferencia documentos oficiais, interpretações editoriais e verificações ainda pendentes.
 
 ## Princípios editoriais
