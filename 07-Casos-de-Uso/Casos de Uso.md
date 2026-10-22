@@ -38,6 +38,8 @@ e o estado da verificação documental.
 
 ## 3. Aplicações possíveis de IA generativa
 
+Nota temática: [[Aplicações de IA Generativa na Administração Pública]].
+
 O guia apresenta as seguintes aplicações:
 
 - Elaboração e revisão de documentos:
@@ -59,6 +61,8 @@ Essas descrições não constituem evidência
 de implantação por determinado órgão público.
 
 ## 4. Caso institucional: Alice, da CGU
+
+Nota institucional: [[Alice CGU - Análise de Licitações]].
 
 O guia apresenta Alice como ferramenta da
 Controladoria-Geral da União, baseada em
