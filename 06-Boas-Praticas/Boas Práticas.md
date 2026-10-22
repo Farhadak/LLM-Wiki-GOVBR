@@ -177,7 +177,7 @@ por esta nota.
 
 ## 5. Notas temáticas de Boas Práticas
 
-Quatro notas temáticas foram elaboradas
+Cinco notas temáticas foram elaboradas
 e auditadas individualmente:
 
 - [[Revisão Humana e Validação de Conteúdo]] —
@@ -192,13 +192,15 @@ e auditadas individualmente:
 - [[Critérios de Escolha de Ferramentas]] —
   seleção institucional, confidencialidade,
   controle, auditabilidade e avaliação de soluções.
+- [[Competências Digitais e Literacia em IA]] —
+  alfabetização em IA, pensamento crítico,
+  identificação de falhas e capacitação contínua.
 
-Permanece planejado o seguinte tema:
+A estrutura temática deste eixo está concluída.
+As notas permanecem sujeitas à revisão humana
+e à verificação jurídica indicadas em seus
+respectivos registros de rastreabilidade.
 
-- Competências digitais e literacia em IA.
-
-O tema acima ainda não possui
-nota temática própria neste eixo.
 
 ## 6. Conexões com a Wiki
 
