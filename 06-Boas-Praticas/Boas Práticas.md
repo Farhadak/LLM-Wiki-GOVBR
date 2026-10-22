@@ -177,7 +177,7 @@ por esta nota.
 
 ## 5. Notas temáticas de Boas Práticas
 
-Três notas temáticas foram elaboradas
+Quatro notas temáticas foram elaboradas
 e auditadas individualmente:
 
 - [[Revisão Humana e Validação de Conteúdo]] —
@@ -189,14 +189,16 @@ e auditadas individualmente:
 - [[Credenciais e Informações Protegidas]] —
   proteção de credenciais, dados pessoais,
   informações institucionais e direitos autorais.
+- [[Critérios de Escolha de Ferramentas]] —
+  seleção institucional, confidencialidade,
+  controle, auditabilidade e avaliação de soluções.
 
-Permanecem planejados os seguintes temas:
+Permanece planejado o seguinte tema:
 
-- Critérios de escolha de ferramentas.
 - Competências digitais e literacia em IA.
 
-Os dois temas acima ainda não possuem
-notas temáticas próprias neste eixo.
+O tema acima ainda não possui
+nota temática própria neste eixo.
 
 ## 6. Conexões com a Wiki
 
