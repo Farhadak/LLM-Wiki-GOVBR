@@ -12,149 +12,159 @@ review_legal: pendente
 
 ## 1. Finalidade e escopo
 
-Este mapa organiza as referencias juridicas,
+Este mapa organiza as referências jurídicas,
 administrativas e internacionais associadas ao uso
-de inteligencia artificial generativa na
-administracao publica brasileira.
+de inteligência artificial generativa na
+administração pública brasileira.
 
-A fonte documental principal e o guia federal
+A fonte documental principal é o guia federal
 registrado como [[FONTE-001]].
 
-O conteudo distingue orientacoes do guia,
-legislacao vigente, proposicoes legislativas
-e analise editorial.
+O conteúdo distingue orientações do guia,
+legislação vigente, proposições legislativas
+e análise editorial.
 
-Este mapa nao constitui parecer juridico
-nem substitui consulta as fontes oficiais.
+Este mapa não constitui parecer jurídico
+nem substitui consulta às fontes oficiais.
 
-## 2. Criterios de classificacao
+## 2. Critérios de classificação
 
 Cada instrumento deve receber um registro com:
 
-- Identificacao e orgao responsavel.
-- Natureza juridica e alcance.
+- Identificação e órgão responsável.
+- Natureza jurídica e alcance.
 - Data do instrumento e versao consultada.
-- Situacao normativa ou legislativa.
-- Fonte oficial e endereco de consulta.
-- Data da ultima verificacao.
-- Relacao com a IA generativa.
-- Pendencias de interpretacao ou validacao.
+- Situação normativa ou legislativa.
+- Fonte oficial e endereço de consulta.
+- Data da última verificação.
+- Relação com a IA generativa.
+- Pendências de interpretação ou validação.
 
-As categorias documentais sao:
+As categorias documentais são:
 
-- Legislacao vigente.
-- Proposicao legislativa em tramitacao.
+- Legislação vigente.
+- Proposição legislativa em tramitação.
 - Norma infralegal ou administrativa.
-- Orientacao institucional nao vinculante.
-- Referencial internacional ou tecnico.
+- Orientação institucional não vinculante.
+- Referencial internacional ou técnico.
 
-A classificacao de um documento nao comprova,
-por si so, sua aplicabilidade a um caso concreto.
+A classificação de um documento não comprova,
+por si só, sua aplicabilidade a um caso concreto.
 
-## 3. Legislacao e protecao de dados
+## 3. Legislação e proteção de dados
 
-O guia destaca o principio da legalidade
-e a observancia da LGPD.
+Nota temática: [[LGPD e Proteção de Dados na IA Generativa]].
 
-A Lei nº 13.709/2018 constitui referencia
+O guia destaca o princípio da legalidade
+e a observância da LGPD.
+
+A Lei nº 13.709/2018 constitui referência
 legislativa relevante para o tratamento
 de dados pessoais.
 
 Fonte oficial:
 https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
 
-Situacao geral: lei em vigor.
-Aplicabilidade e dispositivos especificos:
-requerem analise juridica contextualizada.
+Situação geral: lei em vigor.
+Aplicabilidade e dispositivos específicos:
+requerem análise jurídica contextualizada.
 
 Rastreabilidade no guia: linhas 80–90 e 484–486.
 
 ## 4. Propostas de marco legal da IA
 
+Nota temática: [[Marco Legal da Inteligência Artificial no Brasil]].
+
 O guia utiliza o PL 2338/2023 como base
 para apresentar categorias de risco.
 
-Essa exposicao representa o contexto documental
-do guia e nao demonstra que as categorias
-tenham adquirido automaticamente forca de lei.
+Essa exposição representa o contexto documental
+do guia e não demonstra que as categorias
+tenham adquirido automaticamente força de lei.
 
-O Senado registra aprovacao da proposicao
-naquela Casa e remessa a Camara dos Deputados
-em marco de 2025.
+O Senado registra aprovação da proposição
+naquela Casa e remessa à Câmara dos Deputados
+em março de 2025.
 
-A situacao atual, o texto em exame e eventuais
-alteracoes devem ser verificados na ficha oficial
-da Camara antes de conclusoes juridicas.
+A situação atual, o texto em exame e eventuais
+alterações devem ser verificados na ficha oficial
+da Câmara antes de conclusões jurídicas.
 
 Fonte oficial do Senado:
 https://www25.senado.leg.br/web/atividade/materias/-/materia/157233
 
 Rastreabilidade no guia: linhas 162–234
-e referencia bibliografica na linha 511.
+e referência bibliográfica na linha 511.
 
-## 5. Normas e orientacoes institucionais
+## 5. Normas e orientações institucionais
 
-O guia recomenda considerar politicas de
-seguranca da informacao, aprovacao institucional
-de ferramentas e governanca de dados.
+Nota temática: [[Normas e Orientações Institucionais para IA Generativa]].
 
-Essas recomendacoes nao devem ser confundidas
-com obrigacoes legais universais sem identificar
-a norma, o orgao e o ambito de aplicacao.
+O guia recomenda considerar políticas de
+segurança da informação, aprovação institucional
+de ferramentas e governança de dados.
 
-Documentos para exame posterior:
+Essas recomendações não devem ser confundidas
+com obrigações legais universais sem identificar
+a norma, o órgão e o âmbito de aplicação.
 
-- Instrução Normativa RFB nº 2.134/2023.
-- Guia de uso de IA generativa do TCU.
-- Guia de uso responsavel de IA da CGU.
-- Radar tecnologico de IA generativa da ANPD.
+Situação da verificação documental em 22/10/2026:
+
+- Instrução Normativa RFB nº 2.134/2023: texto não recuperado.
+- Guia de uso de IA generativa do TCU: PDF consultado, pp. 2–6.
+- Guia de uso responsável de IA da CGU: PDF não recuperado.
+- Radar tecnológico de IA generativa da ANPD: PDF não recuperado.
 
 Os instrumentos acima possuem naturezas
-documentais diferentes. A inclusao nesta lista
-nao significa que estejam todos vigentes
+documentais diferentes. A inclusão nesta lista
+não significa que estejam todos vigentes
 ou sejam juridicamente vinculantes.
 
 Rastreabilidade no guia: linhas 418–460
-e referencias 509, 513, 515 e 517.
+e referências 509, 513, 515 e 517.
 
 ## 6. Referenciais internacionais
 
-O guia menciona a Recomendacao da UNESCO
-sobre a Etica da Inteligencia Artificial
-e o referencial de classificacao da OCDE.
+O guia menciona a Recomendação da UNESCO
+sobre a Ética da Inteligência Artificial
+e o referencial de classificação da OCDE.
 
-Sao referencias para analise comparativa
-e orientacao de principios.
+São referências para análise comparativa
+e orientação de princípios.
 
-Nao devem ser apresentados como leis
-brasileiras por sua simples citacao no guia.
+Não devem ser apresentados como leis
+brasileiras por sua simples citação no guia.
 
 Rastreabilidade no guia: linhas 496–498,
 534–535 e 544–545.
 
-## 7. Conexoes com a Wiki
+## 7. Conexões com a Wiki
+
+- [[LGPD e Proteção de Dados na IA Generativa]] — lei e dados pessoais.
+- [[Marco Legal da Inteligência Artificial no Brasil]] — tramitação legislativa.
+- [[Normas e Orientações Institucionais para IA Generativa]] — instrumentos institucionais.
 
 - [[Fundamentos]] — conceitos essenciais.
 - [[Governança]] — estruturas e responsabilidades.
 - [[Governança e Proteção de Dados na IA Generativa]] —
   tratamento institucional de dados.
 - [[Classificação de Riscos dos Sistemas de IA]] —
-  classificacao apresentada pelo guia.
+  classificação apresentada pelo guia.
 - [[Boas Práticas]] — cuidados operacionais.
 - [[Credenciais e Informações Protegidas]] —
-  informacoes que requerem protecao.
+  informações que requerem proteção.
 
-## 8. Rastreabilidade e revisao
+## 8. Rastreabilidade e revisão
 
 - Fonte principal: [[FONTE-001]]
 - Documento: [[guia-ia-generativa-normalizado]]
 - Cadeia documental: [[PROVENIENCIA]]
-- Natureza: sintese documental e analise editorial
-- Verificacao normativa: em andamento
-- Revisao humana: pendente
-- Verificacao juridica: pendente
+- Natureza: síntese documental e análise editorial
+- Verificação normativa: em andamento
+- Revisão humana: pendente
+- Verificação jurídica: pendente
 
-Atualizacoes de situacao normativa deverao
-registrar a data, o orgao, a fonte oficial
-e o resultado da conferencia, preservando
-o texto historico da fonte principal.
+Atualizações de situação normativa deverão
+registrar a data, o órgão, a fonte oficial
+e o resultado da conferência, preservando
+o texto histórico da fonte principal.
