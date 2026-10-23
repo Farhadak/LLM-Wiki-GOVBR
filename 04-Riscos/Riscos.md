@@ -44,6 +44,8 @@ linhas 102–104.
   risco excessivo, alto, moderado e baixo,
   conforme categorização apresentada pelo guia.
 
+**Ressalva regulatória:** a classificação de riscos apresentada pelo guia tem como referência o Projeto de Lei nº 2338/2023, conforme a linha 164 da fonte. Sua reprodução neste mapa não significa que as categorias, proibições ou obrigações descritas constituam, integralmente, legislação brasileira vigente. Essa questão está documentada na constatação REV-001, no [[Marco Legal da Inteligência Artificial no Brasil]], e requer verificação jurídica.
+
 Novas notas serão incorporadas após levantamento
 documental, elaboração e auditoria individual.
 
@@ -58,6 +60,10 @@ Os riscos não devem ser tratados como
 características isoladas da tecnologia:
 seus efeitos dependem também das pessoas,
 dos processos e das condições institucionais.
+
+A avaliação técnica de riscos, considerando o contexto, a exposição, a probabilidade e a gravidade das consequências, não equivale automaticamente ao enquadramento jurídico de um sistema nas categorias regulatórias descritas no guia. São análises relacionadas, mas distintas, que podem exigir critérios, evidências e competências diferentes.
+
+Essa distinção constitui uma elaboração editorial e não representa uma interpretação jurídica oficial.
 
 Esta seção constitui análise editorial
 e não representa posição oficial da SGD
@@ -85,3 +91,10 @@ e validação humana.
 - Introdução aos riscos: linhas 102–104
 - Cadeia documental: [[PROVENIENCIA]]
 - Estado: mapa inicial, revisão humana pendente
+- Origem da classificação regulatória: linha 164
+- Risco excessivo e alto risco: linhas 166–182
+- Risco moderado e baixo risco: linhas 212–226
+- Constatação relacionada: REV-001 — [[Marco Legal da Inteligência Artificial no Brasil]]
+- Verificação jurídica: pendente
+
+**Ressalva documental:** as categorias regulatórias e as respectivas obrigações foram reproduzidas pelo guia com referência ao PL 2338/2023. A utilização dessas categorias na Wiki não constitui confirmação de sua vigência jurídica nem substitui a consulta à legislação aplicável.
