@@ -31,5 +31,5 @@ As fontes complementares não substituem o guia principal. Toda informação inc
 
 - Validar o conteúdo dos PDFs preservados.
 - Recuperar ou localizar versões oficiais dos documentos pendentes.
-- Extrair o conteúdo principal do guia em Markdown.
-- Registrar os hashes SHA-256 no inventário técnico.
+- Conferir a integridade e a completude da captura HTML e dos anexos do guia principal.
+- Manter atualizada a cadeia documental registrada em [[PROVENIENCIA]], incluindo hashes SHA-256 e commits.
