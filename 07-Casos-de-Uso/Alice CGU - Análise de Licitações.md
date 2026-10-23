@@ -88,6 +88,16 @@ Como proposta editorial de avaliação, recomenda-se examinar:
 
 Esses pontos constituem recomendações editoriais de governança. O trecho do guia sobre Alice não comprova a existência ou a implementação de todos esses controles.
 
+### Ressalvas de governança — análise editorial
+
+**REV-002 — Proteção de dados:** a avaliação de uma ferramenta de análise de licitações deve considerar a natureza dos dados tratados, eventuais informações pessoais ou protegidas e o risco de reidentificação. Mascaramento, pseudonimização e utilização de dados sintéticos não asseguram, isoladamente, anonimização juridicamente efetiva. Ver [[LGPD e Proteção de Dados na IA Generativa]].
+
+**REV-003 — Supervisão e responsabilidade:** alertas automatizados devem ser distinguidos das conclusões de auditoria e das decisões administrativas. A supervisão humana constitui salvaguarda operacional, mas não estabelece, por si só, responsabilidade jurídica individual exclusiva do auditor ou servidor. A definição de responsabilidades depende das competências institucionais e das normas aplicáveis. Ver [[Supervisão Humana e Responsabilidade]].
+
+**REV-004 — Autorização institucional:** a existência de uma ferramenta institucional não comprova que todas as suas configurações, integrações, finalidades ou categorias de dados estejam autorizadas. A conformidade de cada utilização exige avaliação contextual. Ver [[Normas e Orientações Institucionais para IA Generativa]].
+
+Essas ressalvas são propostas editoriais de governança. Não constituem afirmações sobre controles efetivamente implementados no sistema Alice, nem conclusões de uma auditoria jurídica ou técnica da CGU.
+
 ## 7. Avaliação de resultados e valor público
 
 Uma avaliação institucional da ferramenta poderia considerar, entre outros indicadores:
@@ -121,6 +131,16 @@ A realização de benefícios e a geração de valor público dependeriam de evi
 **Documento de referência:** [[guia-ia-generativa-normalizado]].
 
 **Trecho utilizado:** linhas 382–394.
+
+**Proteção de dados — REV-002:** análise editorial relacionada às linhas 138–140 e 444–452 do guia.
+
+**Supervisão e responsabilidade — REV-003:** análise editorial das linhas 468–470 e 486–490 do guia.
+
+**Autorização institucional — REV-004:** análise editorial relativa às linhas 418–440 do guia.
+
+**Aplicabilidade específica das ressalvas ao sistema Alice:** não verificada de forma independente.
+
+**Verificação jurídica das constatações REV-002, REV-003 e REV-004:** pendente.
 
 **Natureza:** descrição de caso institucional citado no guia, acompanhada de análise e propostas editoriais identificadas.
 
