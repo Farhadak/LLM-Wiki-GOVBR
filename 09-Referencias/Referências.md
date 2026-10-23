@@ -200,6 +200,20 @@ A inclusão neste catálogo não implica validação automática da exatidão, d
 **Referência citada:** ESTADOS UNIDOS. *AI Use Case Inventories* — Office of Management and Budget / CIO.
 
 **Endereços informados pelo guia:**
+
+- https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory
+- https://www.cio.gov/policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/
+
+**Localização:** guia, linhas 526–528.
+
+**Data de acesso registrada no guia:** 7 de outubro de 2025.
+
+**Natureza:** inventários e recursos de referência sobre casos de uso de inteligência artificial no governo federal dos Estados Unidos.
+
+**Situação:** referências identificadas na fonte principal; disponibilidade atual dos endereços, conteúdo, atualização dos inventários e aplicabilidade institucional ainda sujeitos à verificação externa independente.
+
+**Conexão:** [[Casos de Uso]].
+
 ### REF-011 — IA Legis, MGI e Serpro
 
 **Referência citada:** IA LEGIS — Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e Serviço Federal de Processamento de Dados (Serpro). Ferramenta para facilitar a busca por legislação de pessoal.
