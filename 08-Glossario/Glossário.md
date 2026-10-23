@@ -146,7 +146,9 @@ Categorias utilizadas para discutir as condições de acesso, licenciamento, exe
 
 A classificação exige a análise das condições específicas de cada modelo. A disponibilidade de seus pesos não significa, por si só, que o código, os dados de treinamento ou todas as permissões de uso sejam abertos.
 
-A execução local pode ampliar o controle institucional, mas não garante, por si só, segurança ou conformidade.
+A execução local pode ampliar o controle institucional, mas, por si só, não garante segurança ou conformidade.
+
+A abertura técnica de um modelo, a disponibilidade de seus pesos e as condições de sua licença não implicam, por si só, autorização institucional de uso ou dispensa de obrigações legais. As exceções regulatórias mencionadas no guia dependem da identificação da norma, da jurisdição e dos requisitos efetivamente aplicáveis. Sua incidência no Brasil permanece sujeita a verificação jurídica.
 
 **Fonte:** guia, linhas 42–72.
 
@@ -168,39 +170,39 @@ A tokenização não equivale necessariamente à anonimização irreversível, n
 
 ## 4. Riscos e qualidade dos resultados
 
-Viés algorítmico
+### Viés algorítmico
 
-Categoria: definição presente no guia.
+**Categoria:** definição presente no guia.
 
 Distorção introduzida por decisões de projeto do algoritmo, como ponderações, critérios de otimização ou priorização de determinados resultados.
 
-Fonte: guia, linha 158.
+**Fonte:** guia, linha 158.
 
-Conexão: [[Vieses na IA Generativa]].
+**Conexão:** [[Vieses na IA Generativa]].
 
-Viés de automação
+### Viés de automação
 
-Categoria: definição presente no guia.
+**Categoria:** definição presente no guia.
 
 Tendência humana de confiar excessivamente em resultados ou recomendações automatizadas, mesmo quando podem estar incorretos.
 
-É particularmente relevante quando respostas de IA são utilizadas para apoiar decisões administrativas.
+É particularmente relevante quando as respostas de IA são utilizadas para apoiar decisões administrativas.
 
-Fonte: guia, linha 148.
+**Fonte:** guia, linha 148.
 
-Conexões: [[Vieses na IA Generativa]]; [[Supervisão Humana e Responsabilidade]].
+**Conexões:** [[Vieses na IA Generativa]]; [[Supervisão Humana e Responsabilidade]].
 
-Vieses nos dados e na interação
+### Vieses nos dados e na interação
 
-Categoria: conceitos explicados no guia.
+**Categoria:** conceitos explicados no guia.
 
 Distorções relacionadas à representatividade, à seleção, à exclusão de grupos, a desigualdades históricas ou a interações que reforçam padrões inadequados.
 
 O guia distingue diferentes mecanismos de formação e reprodução de vieses, que exigem avaliações específicas.
 
-Fonte: guia, linhas 142–160.
+**Fonte:** guia, linhas 142–160.
 
-Conexão: [[Vieses na IA Generativa]].
+**Conexão:** [[Vieses na IA Generativa]].
 
 ## 5. Governança e responsabilidade institucional
 
@@ -212,7 +214,9 @@ Dados pessoais são informações relacionadas a pessoas naturais identificadas 
 
 Dados pessoais sensíveis constituem uma categoria específica prevista na Lei Geral de Proteção de Dados (LGPD), sujeita a requisitos próprios de tratamento.
 
-A utilização de IA generativa exige avaliar a finalidade do tratamento, a necessidade dos dados, as condições de acesso e as medidas de proteção aplicáveis.
+A utilização de IA generativa exige a avaliação da finalidade do tratamento, da necessidade dos dados, das condições de acesso e das medidas de proteção aplicáveis.
+
+Mascaramento, tokenização, pseudonimização e substituição por dados sintéticos são técnicas de proteção, mas não garantem, por si sós, a anonimização efetiva. A caracterização jurídica dos dados e a possibilidade razoável de reidentificação devem ser avaliadas conforme a LGPD e o contexto do tratamento.
 
 **Fonte:** guia, linhas 250, 446 e 486.
 
@@ -250,9 +254,11 @@ A utilização de IA generativa não dispensa o cumprimento das obrigações leg
 
 **Categoria:** princípio explicado no guia.
 
-Dever de revisar, validar e assumir a responsabilidade institucional pelos conteúdos e pelas decisões produzidos com apoio de IA generativa, conforme as atribuições de cada agente público.
+Dever de revisar e validar conteúdos e exercer as competências institucionais pertinentes às decisões tomadas com apoio de IA generativa, observadas as atribuições de cada agente público.
 
-O guia ressalta que a automação não elimina a responsabilidade do servidor pela produção e pelo uso do conteúdo.
+O guia atribui ao servidor a responsabilidade final pela revisão dos conteúdos e pelas decisões administrativas. Essa orientação deve ser compreendida no contexto das competências e dos procedimentos institucionais, sem presumir responsabilidade jurídica individual exclusiva, nem afastar responsabilidades de outros agentes e da própria instituição.
+
+A determinação de eventual responsabilidade administrativa, civil ou de outra natureza depende da legislação aplicável e da análise das circunstâncias concretas.
 
 **Fonte:** guia, linhas 26 e 126.
 
@@ -299,6 +305,14 @@ O guia associa a transparência à possibilidade de auditoria e contestação.
 **Revisão humana:** pendente.
 
 **Revisão jurídica:** pendente.
+
+**REV-002 — Proteção de dados:** ressalva editorial sobre a distinção entre técnicas de proteção e anonimização juridicamente efetiva; referência ao guia, linhas 138–140 e 444–448.
+
+**REV-003 — Responsabilidade humana:** distinção editorial entre supervisão operacional, competências institucionais e responsabilização jurídica; referência ao guia, linhas 124–126, 468–470 e 486–490.
+
+**REV-004 — Modelos abertos:** ressalva editorial sobre abertura técnica, autorização institucional e aplicabilidade de exceções regulatórias; referência ao guia, linhas 436–440.
+
+**Validação jurídica das ressalvas REV-002, REV-003 e REV-004:** pendente.
 
 Este glossário é um instrumento de consulta e navegação da Wiki. Não constitui parecer técnico ou jurídico, nem substitui a verificação das fontes originais.
 
