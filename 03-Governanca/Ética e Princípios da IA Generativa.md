@@ -67,6 +67,8 @@ Não se presume, nesta nota,
 que todas as obrigações ali descritas
 constituam legislação brasileira vigente.
 
+Essa ressalva está documentada na constatação REV-001, em [[Marco Legal da Inteligência Artificial no Brasil]]. A classificação de sistemas de alto risco e as obrigações regulatórias descritas na linha 182 do guia não devem ser interpretadas, sem verificação jurídica, como disposições integralmente vigentes no ordenamento brasileiro.
+
 ## 4. Revisão institucional e responsabilidade
 
 O guia recomenda revisão institucional
@@ -79,6 +81,8 @@ a responsabilidade humana.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 275–277 e 488.
+
+A orientação do guia sobre a responsabilidade final do servidor deve ser interpretada no contexto da supervisão humana e da revisão operacional. Ela não determina, isoladamente, a distribuição jurídica de responsabilidades entre servidores, gestores, órgãos públicos e fornecedores. Essa distinção está registrada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à análise jurídica.
 
 ## 5. Privacidade e governança de dados
 
@@ -202,3 +206,7 @@ técnica e jurídica.
 - Natureza: síntese e análise editorial
 - Verificação jurídica: pendente
 - Revisão humana: pendente
+- Constatação relacionada: REV-001 — [[Marco Legal da Inteligência Artificial no Brasil]]
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+
+**Ressalva documental:** as orientações sobre classificação de riscos, revisão institucional, responsabilidade humana e princípios internacionais foram verificadas nas linhas 182, 275–277, 488 e 496–498 do guia. Sua reprodução nesta nota não constitui confirmação da vigência de obrigações regulatórias específicas, parecer jurídico sobre responsabilidades ou validação independente da Recomendação da UNESCO.
