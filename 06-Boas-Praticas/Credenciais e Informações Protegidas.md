@@ -52,7 +52,7 @@ na criação de contas em plataformas externas
 de IAG sem aprovação apropriada.
 
 A preocupação inclui a associação indevida
-entre uso individual e identidade institucional.
+entre o uso individual e identidade institucional.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 344–351 e 450.
@@ -105,6 +105,10 @@ em diferentes interações.
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 444–452.
 
+**Ressalva sobre anonimização — REV-002:** as técnicas mencionadas pelo guia, como mascaramento, tokenização, generalização e substituição por dados sintéticos, não garantem, isoladamente, anonimização juridicamente efetiva nos termos da LGPD.
+
+A avaliação deve considerar a possibilidade de reidentificação, os meios técnicos razoavelmente disponíveis e o contexto do tratamento. Essa distinção está registrada em [[LGPD e Proteção de Dados na IA Generativa]] e permanece sujeita à verificação jurídica.
+
 ### Direitos autorais e propriedade intelectual
 
 O guia recomenda verificar se os conteúdos
@@ -131,7 +135,7 @@ linhas 484–490.
 A proteção das informações depende
 não apenas da ferramenta escolhida,
 mas também do conteúdo efetivamente
-incluído nos prompts, anexos e interações.
+incluído nos prompts, nos anexos e nas interações.
 
 É necessário distinguir, para fins
 de avaliação operacional:
@@ -141,12 +145,15 @@ de avaliação operacional:
 - Informações internas, restritas ou sigilosas.
 - Conteúdos sujeitos a direitos de terceiros.
 - Informações aparentemente isoladas
-  que possam revelar dados protegidos
-  quando combinadas.
+  que, quando combinadas, podem revelar dados protegidos.
 
 A aprovação institucional de uma ferramenta
 não significa autorização irrestrita
 para inserir qualquer categoria de dado.
+
+**Ressalva sobre ferramentas — REV-004:** a aprovação institucional deve ser interpretada no contexto da finalidade autorizada, das categorias de informação e dos controles efetivamente aplicáveis. Não se pode presumir que toda ferramenta aprovada ofereça as mesmas garantias de confidencialidade, retenção, auditabilidade ou proteção de dados.
+
+O guia também apresenta afirmações sobre transparência e possíveis exceções regulatórias aplicáveis a modelos de código aberto, sem explicitar suficientemente a base normativa ou a jurisdição correspondente. Essas afirmações não devem ser tratadas como regras jurídicas brasileiras automaticamente aplicáveis. Ver [[Normas e Orientações Institucionais para IA Generativa]].
 
 Da mesma forma, substituir nomes por códigos
 não assegura, por si só, anonimização efetiva.
@@ -275,6 +282,12 @@ e da criticidade das informações.
 - Propriedade intelectual: linhas 367–370
 - Seleção de ferramentas: linhas 418–434
 - Compartilhamento e agregação: linhas 442–452
+- Anonimização e risco de reidentificação: linhas 138–140 e 444–452
+- Constatação REV-002: [[LGPD e Proteção de Dados na IA Generativa]]
+- Aprovação institucional e tratamento de dados: linhas 420–434
+- Transparência e exceções regulatórias: linhas 438–440
+- Constatação REV-004: [[Normas e Orientações Institucionais para IA Generativa]]
+- Verificação jurídica das constatações REV-002 e REV-004: pendente
 - Segurança e privacidade: linhas 484–490
 - Cadeia documental: [[PROVENIENCIA]]
 - Natureza: síntese e proposta editorial
