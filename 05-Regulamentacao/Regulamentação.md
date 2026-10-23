@@ -33,7 +33,7 @@ Cada instrumento deve receber um registro com:
 
 - Identificação e órgão responsável.
 - Natureza jurídica e alcance.
-- Data do instrumento e versao consultada.
+- Data do instrumento e versão consultada.
 - Situação normativa ou legislativa.
 - Fonte oficial e endereço de consulta.
 - Data da última verificação.
@@ -163,6 +163,17 @@ Rastreabilidade no guia: linhas 496–498,
 - Verificação normativa: em andamento
 - Revisão humana: pendente
 - Verificação jurídica: pendente
+
+### Constatações documentais registradas
+
+- **REV-001 — Linguagem normativa na classificação de riscos:** registrada no [[Marco Legal da Inteligência Artificial no Brasil]]. Examina a utilização de linguagem de obrigação jurídica na classificação apresentada, com base no PL 2338/2023.
+- **REV-002 — Anonimização e técnicas de proteção de dados:** registrada em [[LGPD e Proteção de Dados na IA Generativa]]. Distingue técnicas de redução de exposição da anonimização efetiva.
+- **REV-003 — Responsabilidade operacional e jurídica:** registrada em [[LGPD e Proteção de Dados na IA Generativa]]. Distingue a responsabilidade pela revisão humana da atribuição jurídica de responsabilidades aos agentes envolvidos.
+- **REV-004 — Transparência em modelos de código aberto:** registrada em [[Normas e Orientações Institucionais para IA Generativa]]. Identifica ausência de fundamentação normativa explícita para determinadas isenções e obrigações mencionadas no guia.
+
+**Estado consolidado:** quatro constatações documentais registradas, com tratamento editorial em revisão. A verificação documental realizada não substitui a revisão humana ou jurídica, que permanecem pendentes.
+
+Este mapa apresenta apenas a síntese das constatações. Os registros completos, as evidências e as ações subsequentes permanecem nas respectivas notas temáticas.
 
 Atualizações de situação normativa deverão
 registrar a data, o órgão, a fonte oficial
