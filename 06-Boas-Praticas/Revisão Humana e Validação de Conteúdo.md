@@ -90,6 +90,10 @@ A responsabilidade pelo documento
 ou decisão permanece com o servidor,
 independentemente do uso de IAG.
 
+**Ressalva sobre responsabilidade — REV-003:** essa afirmação reproduz a orientação operacional do guia quanto à revisão, à validação e à responsabilidade do servidor pelo conteúdo produzido com apoio de IAG. Não estabelece, por si só, responsabilidade jurídica exclusiva do servidor nem afasta eventuais responsabilidades de gestores, órgãos públicos ou fornecedores.
+
+A distribuição jurídica de responsabilidades depende das normas aplicáveis e das circunstâncias concretas. Essa distinção está documentada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à verificação jurídica.
+
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 269, 330–342 e 488–490.
 
@@ -218,6 +222,9 @@ Esta lista é uma proposta editorial.
 - Responsabilidade: linhas 330–342
 - Capacitação crítica: linhas 468–474
 - Supervisão final: linhas 488–490
+- Responsabilidade operacional atribuída ao servidor: linhas 126, 263, 332, 470 e 488
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+- Distribuição jurídica de responsabilidades: verificação pendente
 - Cadeia documental: [[PROVENIENCIA]]
 - Natureza: síntese e proposta editorial
 - Revisão humana: pendente
