@@ -328,6 +328,24 @@ A manutenção deste catálogo deverá observar os seguintes critérios:
 
 - Atualizar os vínculos com as notas temáticas da Wiki.
 
+### 6.1. Registro de revisão bibliográfica — REV-005
+
+**Identificador:** REV-005 — Integridade e rastreabilidade da REF-010.
+
+**Objeto:** REF-010 — Inventários federais de casos de inteligência artificial dos Estados Unidos.
+
+**Constatação:** necessidade de restabelecer os dois endereços eletrônicos informados pelo guia de referência.
+
+**Correção realizada:** registro dos dois endereços originais, preservando a identificação da referência, sua localização no guia (linhas 526–528) e a data de acesso informada pela fonte principal (7 de outubro de 2025).
+
+**Evidência de versionamento:** commit `35c2118` — `docs: corrige REF-010 e registra REV-005`.
+
+**Resultado da auditoria estrutural:** presença confirmada das 17 referências REF-001 a REF-017, sem duplicações ou identificadores ausentes. Os quatro verbetes com múltiplos endereços (REF-009, REF-010, REF-011 e REF-014) apresentam os respectivos links.
+
+**Limitação:** a restauração dos endereços e a auditoria estrutural não constituem verificação externa de disponibilidade, autenticidade, atualização ou conteúdo dos recursos citados.
+
+**Situação:** correção documental concluída; verificação externa independente, revisão humana e revisão jurídica pendentes.
+
 Fonte bibliográfica principal: [[FONTE-001]], linhas 502–550.
 
 Documento de referência: [[guia-ia-generativa-normalizado]].
