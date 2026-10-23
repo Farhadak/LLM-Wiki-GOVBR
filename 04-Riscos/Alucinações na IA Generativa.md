@@ -55,7 +55,9 @@ pelas decisões, ações e interpretações continua
 sendo do servidor público.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
-linhas 472–488.
+linhas 470, 474 e 488.
+
+**Ressalva sobre responsabilidade:** o guia atribui ao servidor público a revisão e a responsabilidade final pelas decisões e pelos documentos produzidos com apoio da IAG. Essa orientação operacional não determina, por si só, a distribuição jurídica de responsabilidades entre agentes públicos, órgãos, gestores e fornecedores. A questão está registrada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à verificação jurídica.
 
 ## 4. Análise crítica — elaboração editorial
 
@@ -104,12 +106,16 @@ a geração de conteúdo da validação de evidências.
 A responsabilidade institucional não deve
 ser transferida ao modelo de IA.
 
+A supervisão humana deve ser acompanhada de mecanismos institucionais de controle, registro e responsabilização compatíveis com o contexto de uso. A identificação de quem revisa ou aprova uma resposta não resolve automaticamente todas as questões de responsabilidade jurídica decorrentes de eventuais danos.
+
+Essa distinção constitui uma elaboração editorial, relacionada à constatação REV-003, e não representa uma interpretação jurídica oficial.
+
 A aceitação de uma resposta deve considerar
 a criticidade da aplicação, a qualidade das
 evidências e os efeitos potenciais de erros.
 
 Estas são implicações editoriais para governança,
-sujeitas a revisão e validação humana.
+sujeitas à revisão e validação humanas.
 
 ## 7. Rastreabilidade
 
@@ -118,6 +124,10 @@ sujeitas a revisão e validação humana.
 - Definição e fatores associados: linhas 106–116
 - Identificação de falhas: linhas 472–474
 - Supervisão e responsabilidade: linha 488
+- Revisão humana de conteúdos: linha 470
+- Identificação de alucinações: linha 474
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+- Verificação jurídica da responsabilidade: pendente
 - Cadeia documental: [[PROVENIENCIA]]
 - Conceito relacionado: [[Grandes Modelos de Linguagem]]
 - Técnica relacionada: [[Geração Aumentada via Recuperação]]
