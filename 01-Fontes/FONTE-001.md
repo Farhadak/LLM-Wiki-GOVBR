@@ -2,7 +2,7 @@
 id: FONTE-001
 title: Guia de Inteligência Artificial Generativa - Governo Federal
 type: fonte-primaria
-status: aguardando-captura
+status: capturada-validacao-pendente
 url: https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa
 registered: 2026-10-21
 ---
@@ -19,7 +19,9 @@ https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/intelig
 
 ## Estado da captura
 
-Pendente. O conteúdo integral e seus anexos ainda precisam ser inventariados e preservados.
+A página governamental foi capturada em HTML e preservada no repositório. Foram produzidas versões Markdown preliminar, estruturada e normalizada, com hashes SHA-256 e commits registrados em [[PROVENIENCIA]].
+
+A captura e a normalização editorial não constituem certificação oficial de autenticidade ou integridade. A verificação integral dos anexos e a revisão documental permanecem pendentes.
 
 ## Política de rastreabilidade
 
