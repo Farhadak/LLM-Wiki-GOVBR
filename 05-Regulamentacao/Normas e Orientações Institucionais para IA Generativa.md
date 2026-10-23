@@ -231,3 +231,22 @@ linhas 259–263, 418–452, 484, 509, 513, 515 e 517.
 datas de verificação e eventuais mudanças de vigência
 sem alterar silenciosamente o conteúdo histórico
 da fonte principal.
+
+### Registro de constatação — REV-004
+
+- **Identificador:** REV-004
+- **Dimensão:** fidelidade documental, rastreabilidade normativa e cautela jurídica.
+- **Objeto:** isenções de transparência e obrigações atribuídas a fornecedores de modelos de IA de código aberto.
+- **Fonte examinada:** [[guia-ia-generativa-normalizado]], linhas 436–440.
+- **Evidência:** a linha 440 afirma que fornecedores de modelos de IAG disponibilizados sob licença gratuita e de código aberto podem ser isentos de determinados requisitos de transparência, ressalvados modelos com riscos sistêmicos. Também menciona obrigações relativas à divulgação de informações sobre dados de treinamento e ao cumprimento da legislação de direitos autorais.
+- **Constatação:** o trecho não identifica expressamente a legislação, a jurisdição ou os dispositivos normativos que fundamentariam as isenções e obrigações mencionadas.
+- **Classificação:** ressalva documental confirmada; interpretação e aplicabilidade jurídica pendentes de verificação.
+- **Tratamento editorial:** preservar integralmente a redação histórica do guia e impedir que suas afirmações sejam apresentadas como obrigações ou isenções vigentes no Brasil sem fundamento normativo independente.
+- **Fundamentação a verificar:** legislação brasileira aplicável, eventual origem em legislação estrangeira e correspondência entre os requisitos descritos e os dispositivos efetivamente vigentes.
+- **Situação:** Em revisão.
+- **Verificação documental:** confronto textual realizado em 22/10/2026.
+- **Revisão humana:** pendente.
+- **Revisão jurídica:** pendente.
+- **Ação subsequente:** identificar a origem normativa das afirmações, verificar sua vigência e delimitar sua aplicabilidade à administração pública brasileira.
+
+O registro REV-004 documenta uma lacuna de fundamentação explícita na fonte examinada. Não constitui conclusão de ilegalidade, parecer jurídico ou certificação de conformidade normativa.
