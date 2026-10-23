@@ -7,6 +7,8 @@ type: risco
 status: rascunho
 source_id: FONTE-001
 review_status: pendente
+review_human: pendente
+review_legal: pendente
 ---
 
 # Vieses na IA Generativa

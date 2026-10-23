@@ -5,6 +5,8 @@ axis: Boas Práticas
 source_id: FONTE-001
 status: em-construcao
 review_status: pendente
+review_human: pendente
+review_legal: pendente
 created: 2026-10-22
 tags:
   - inteligencia-artificial-generativa

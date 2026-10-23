@@ -7,6 +7,8 @@ type: governanca
 status: rascunho
 source_id: FONTE-001
 review_status: pendente
+review_human: pendente
+review_legal: pendente
 ---
 
 # Transparência e Auditabilidade da IA Generativa

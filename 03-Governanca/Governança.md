@@ -4,6 +4,8 @@ type: moc
 status: em-construcao
 source_id: FONTE-001
 review_status: pendente
+review_human: pendente
+review_legal: pendente
 ---
 
 # Governança
