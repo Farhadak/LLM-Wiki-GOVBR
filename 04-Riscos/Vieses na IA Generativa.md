@@ -84,6 +84,10 @@ geradas e no comportamento dos usuários.
 O viés de automação envolve particularmente
 a relação entre pessoas e sistemas automatizados.
 
+**Ressalva técnica sobre o viés de interação:** o reforço de vieses por interações e mecanismos de feedback, mencionado pelo guia na linha 160, não implica necessariamente que os parâmetros do modelo sejam atualizados automaticamente a cada interação. Os efeitos dependem da arquitetura, dos mecanismos de personalização, da utilização dos dados de interação e de eventuais processos posteriores de treinamento ou de ajuste.
+
+Esta ressalva constitui um esclarecimento técnico-editorial, não uma afirmação adicional atribuída ao guia.
+
 Esta análise é editorial e não representa
 posição oficial da SGD ou do SERPRO.
 
@@ -115,10 +119,14 @@ Não basta examinar apenas os dados de treinamento:
 as pessoas afetadas e as consequências das decisões.
 
 A responsabilidade institucional pelas decisões
-não deve ser transferida ao modelo de IA.
+não deve ser transferida para o modelo de IA.
+
+**Ressalva sobre responsabilidade:** o guia estabelece a revisão humana dos conteúdos gerados e atribui ao servidor público a responsabilidade final pelas decisões. Essa orientação operacional não determina, por si só, a distribuição jurídica de responsabilidades entre servidores, gestores, órgãos públicos e fornecedores de sistemas de IA.
+
+A distinção está documentada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à verificação jurídica.
 
 Estas implicações constituem elaboração editorial
-sujeita a revisão e validação humana.
+sujeita à revisão e validação humanas.
 
 ## 7. Rastreabilidade
 
@@ -127,7 +135,11 @@ sujeita a revisão e validação humana.
 - Princípio da impessoalidade: linha 84
 - Definição geral de vieses: linhas 142–144
 - Oito categorias: linhas 146–160
-- Riscos de discriminação: linhas 472–474
+- Riscos de discriminação: linha 474
+- Revisão humana e responsabilidade operacional: linha 470
+- Viés de interação e feedback: linha 160
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+- Verificação jurídica da responsabilidade: pendente
 - Justiça algorítmica e inclusão: linha 496
 - Cadeia documental: [[PROVENIENCIA]]
 - Risco relacionado: [[Alucinações na IA Generativa]]
