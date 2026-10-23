@@ -191,6 +191,24 @@ Ver:
 - Revisão humana: pendente
 - Verificação jurídica: pendente
 
+### Registro de constatação — REV-001
+
+- **Identificador:** REV-001
+- **Dimensão:** fidelidade documental e cautela jurídica.
+- **Objeto:** linguagem normativa utilizada na classificação de riscos.
+- **Fonte examinada:** [[guia-ia-generativa-normalizado]], linhas 162–234.
+- **Evidências:** linha 164, que apresenta a classificação como baseada no PL 2338/2023; linha 226, que utiliza a expressão "a lei ainda exige".
+- **Constatação:** o guia emprega linguagem de obrigação jurídica vigente ao descrever uma classificação apresentada como baseada em projeto de lei em discussão.
+- **Classificação:** ressalva documental confirmada; implicações jurídicas dependentes de revisão pela autoridade competente.
+- **Tratamento editorial:** preservar integralmente a redação histórica da fonte e explicitar que as obrigações descritas não podem ser consideradas vigentes apenas com fundamento no PL.
+- **Situação:** Em revisão.
+- **Verificação documental:** confronto textual realizado em 22/10/2026.
+- **Revisão humana:** pendente.
+- **Revisão jurídica:** pendente.
+- **Ação subsequente:** verificar a correspondência das categorias com a versão legislativa pertinente e identificar eventual fundamento jurídico vigente para cada obrigação mencionada.
+
+O registro desta constatação não constitui aprovação jurídica da nota, nem certificação da situação legislativa atual.
+
 A situação legislativa registrada
 é temporal e deve ser revalidada
 antes de qualquer utilização jurídica,
