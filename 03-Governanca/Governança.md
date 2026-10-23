@@ -30,6 +30,8 @@ substituir, o julgamento humano.
 A responsabilidade pelas decisões, ações
 e interpretações permanece com o servidor público.
 
+Esta formulação reproduz a orientação operacional do guia. Não estabelece, por si só, responsabilidade jurídica exclusiva do servidor nem afasta responsabilidades institucionais ou de outros agentes, cuja determinação depende das normas aplicáveis. Ver [[LGPD e Proteção de Dados na IA Generativa]], constatação REV-003.
+
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 126, 263, 470 e 488.
 
@@ -43,6 +45,8 @@ em determinadas soluções externas.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 62, 214–226 e 420.
+
+A apresentação dos requisitos de transparência nas linhas 214–226 integra a exposição do guia sobre classificação de riscos. Não deve ser interpretada automaticamente como obrigação legal vigente no Brasil. Ver [[Marco Legal da Inteligência Artificial no Brasil]], constatação REV-001.
 
 ### Governança e proteção de dados
 
@@ -160,3 +164,12 @@ após elaboração e auditoria individual.
 - Cadeia documental: [[PROVENIENCIA]]
 - Natureza: síntese e elaboração editorial
 - Revisão humana: pendente
+- Revisão jurídica: pendente
+
+### Ressalvas documentais relacionadas
+
+- **REV-001:** linguagem normativa na classificação de riscos — [[Marco Legal da Inteligência Artificial no Brasil]].
+- **REV-003:** distinção entre responsabilidade operacional e atribuição jurídica de responsabilidades — [[LGPD e Proteção de Dados na IA Generativa]].
+- **REV-004:** fundamentação normativa não explicitada para determinadas isenções e obrigações de transparência relativas a modelos de código aberto — [[Normas e Orientações Institucionais para IA Generativa]].
+
+Estas referências permitem acompanhar questões documentais identificadas na área de regulamentação. Não constituem validação jurídica das afirmações do guia nem aprovação das propostas editoriais de governança.
