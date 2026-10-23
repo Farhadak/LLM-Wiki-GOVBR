@@ -236,6 +236,42 @@ nem parecer jurídico.
 - Revisão humana: pendente
 - Verificação jurídica: pendente
 
+### Registro de constatação — REV-002
+
+- **Identificador:** REV-002
+- **Dimensão:** fidelidade documental, precisão técnica e cautela jurídica.
+- **Objeto:** distinção entre anonimização e técnicas de proteção de dados.
+- **Fonte examinada:** [[guia-ia-generativa-normalizado]], linha 140.
+- **Evidência:** o guia apresenta mascaramento, tokenização, generalização e dados sintéticos como técnicas recomendadas para proteger a privacidade.
+- **Constatação:** a utilização dessas técnicas não garante, por si só, que os dados resultantes sejam efetivamente anonimizados.
+- **Classificação:** ressalva técnica e jurídica pendente de validação.
+- **Tratamento editorial:** preservar a orientação histórica do guia e distinguir as técnicas de redução de exposição da anonimização efetiva.
+- **Fundamentação a verificar:** artigo 12 da Lei nº 13.709/2018 e orientações técnicas aplicáveis.
+- **Situação:** Em revisão.
+- **Verificação documental:** confronto textual realizado em 22/10/2026.
+- **Revisão humana:** pendente.
+- **Revisão jurídica:** pendente.
+- **Ação subsequente:** verificar os critérios de anonimização, de reidentificação e os meios técnicos razoavelmente disponíveis.
+
+### Registro de constatação — REV-003
+
+- **Identificador:** REV-003
+- **Dimensão:** fidelidade documental e delimitação de responsabilidades.
+- **Objeto:** responsabilidade operacional do servidor e responsabilidade jurídica dos agentes envolvidos.
+- **Fonte examinada:** [[guia-ia-generativa-normalizado]], linhas 126, 263 e 488–490.
+- **Evidência:** o guia atribui ao servidor público a responsabilidade final pela revisão dos conteúdos e pelas decisões tomadas com o apoio de IAG.
+- **Constatação:** a orientação operacional do guia não determina, por si só, a distribuição jurídica de responsabilidades entre órgãos públicos, controladores, operadores, fornecedores e servidores.
+- **Classificação:** ressalva interpretativa pendente de validação jurídica.
+- **Tratamento editorial:** preservar a orientação do guia e distinguir os deveres de revisão humana da atribuição de responsabilidade jurídica prevista na legislação aplicável.
+- **Fundamentação a verificar:** dispositivos pertinentes da LGPD e demais normas aplicáveis à administração pública.
+- **Situação:** Em revisão.
+- **Verificação documental:** confronto textual realizado em 22/10/2026.
+- **Revisão humana:** pendente.
+- **Revisão jurídica:** pendente.
+- **Ação subsequente:** identificar os agentes de tratamento e examinar as responsabilidades aplicáveis a cada situação concreta.
+
+Os registros REV-002 e REV-003 documentam ressalvas editoriais. Não constituem parecer jurídico, certificação de conformidade com a LGPD ou aprovação da nota.
+
 Esta nota não substitui consulta à LGPD,
 aos atos normativos aplicáveis
 nem orientação jurídica especializada.
