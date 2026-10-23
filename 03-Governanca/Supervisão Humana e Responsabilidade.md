@@ -77,6 +77,8 @@ das responsabilidades institucionais
 relacionadas à escolha, implantação
 e controle das ferramentas.
 
+A atribuição de responsabilidade operacional ao servidor, conforme apresentada no guia, não determina, por si só, a distribuição jurídica de responsabilidades entre servidores, gestores, órgãos públicos e fornecedores. Essa determinação exige exame das normas aplicáveis e das circunstâncias concretas. A questão está registrada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]].
+
 Esta análise é editorial e não representa
 posição oficial da SGD ou do SERPRO.
 
@@ -122,3 +124,7 @@ e validação humana.
 - Cadeia documental: [[PROVENIENCIA]]
 - Natureza: síntese e análise editorial
 - Revisão humana: pendente
+- Revisão jurídica: pendente
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+
+**Ressalva documental:** as orientações do guia sobre revisão humana, autoria e responsabilidade do servidor foram verificadas nas linhas 126, 263, 332, 470 e 488. Sua reprodução nesta nota não constitui parecer jurídico nem estabelece responsabilidade exclusiva de qualquer agente.
