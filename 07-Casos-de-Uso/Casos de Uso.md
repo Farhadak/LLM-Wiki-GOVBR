@@ -120,6 +120,16 @@ descritas pelo guia.
 Rastreabilidade: guia, linhas 355–380
 e 418–420.
 
+### Ressalvas de governança — análise editorial
+
+**REV-002 — Proteção de dados:** a utilização de dados mascarados, pseudonimizados ou sintéticos não garante, isoladamente, anonimização juridicamente efetiva. Cada caso de uso deve considerar o risco de reidentificação e as condições concretas de tratamento. Ver [[LGPD e Proteção de Dados na IA Generativa]].
+
+**REV-003 — Supervisão e responsabilidade:** a revisão humana dos resultados e a responsabilidade operacional atribuída ao servidor pelo guia não estabelecem, por si só, responsabilidade jurídica individual exclusiva. A distribuição de responsabilidades depende das competências institucionais e das normas aplicáveis. Ver [[Supervisão Humana e Responsabilidade]].
+
+**REV-004 — Ferramentas e conformidade:** a aprovação institucional de uma ferramenta deve ser examinada em relação à finalidade, aos dados e aos controles autorizados. Afirmações do guia sobre possíveis exceções regulatórias para modelos de código aberto não devem ser tratadas automaticamente como regras jurídicas brasileiras. Ver [[Normas e Orientações Institucionais para IA Generativa]].
+
+Essas ressalvas constituem análise editorial e permanecem sujeitas à verificação jurídica.
+
 ## 7. Conexões com a Wiki
 
 - [[Fundamentos]] — conceitos e tecnologias.
@@ -137,6 +147,11 @@ e 418–420.
 - Fonte principal: [[FONTE-001]]
 - Documento: [[guia-ia-generativa-normalizado]]
 - Cadeia documental: [[PROVENIENCIA]]
+- Proteção de dados e anonimização — REV-002: linhas 138–140 e 444–452
+- Supervisão humana e responsabilidade — REV-003: linhas 468–470 e 486–490
+- Aprovação de ferramentas e código aberto — REV-004: linhas 418–440
+- Constatações jurídicas relacionadas: [[LGPD e Proteção de Dados na IA Generativa]], [[Supervisão Humana e Responsabilidade]] e [[Normas e Orientações Institucionais para IA Generativa]]
+- Verificação jurídica das constatações REV-002, REV-003 e REV-004: pendente
 - Natureza: síntese documental e organização editorial
 - Verificação externa dos repositórios: pendente
 - Revisão humana: pendente
