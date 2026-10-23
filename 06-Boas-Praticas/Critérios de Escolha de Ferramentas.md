@@ -103,6 +103,10 @@ a obrigações de transparência
 não como descrição validada
 da legislação brasileira vigente.
 
+**Ressalva de interpretação — REV-004:** a afirmação do guia sobre possíveis exceções regulatórias aplicáveis a modelos de código aberto não identifica expressamente a norma jurídica nem a jurisdição aplicável. Portanto, não deve ser utilizada como fundamento para dispensar obrigações legais ou institucionais no Brasil sem verificação jurídica específica.
+
+A disponibilidade pública de código, parâmetros ou documentação também não comprova, por si só, a transparência integral, a segurança ou a conformidade. Ver [[Normas e Orientações Institucionais para IA Generativa]].
+
 ### Compartilhamento de informações
 
 O guia recomenda cautela especial
@@ -162,6 +166,10 @@ configurações e riscos diferentes.
 A classificação por categoria,
 isoladamente, não substitui
 a avaliação concreta da solução.
+
+**Aplicação institucional — REV-004:** a aprovação de uma ferramenta deve ser examinada em relação à finalidade autorizada, às categorias de dados e aos controles efetivamente disponíveis. A aprovação genérica não equivale à autorização para qualquer tratamento de informação.
+
+Na avaliação de modelos abertos, distinguir a disponibilidade do código, o acesso aos parâmetros, a documentação técnica, as condições de implantação e a possibilidade efetiva de auditoria. Esses atributos não são necessariamente equivalentes.
 
 ## 4. Procedimento de seleção — proposta editorial
 
@@ -285,6 +293,10 @@ competentes da instituição.
 - Ferramentas internas: linhas 422–426
 - Plataformas externas: linhas 428–434
 - Código aberto: linhas 436–440
+- Constatação REV-004: [[Normas e Orientações Institucionais para IA Generativa]]
+- Aprovação institucional e controles: linhas 418–434
+- Transparência e possíveis exceções regulatórias: linhas 436–440
+- Verificação jurídica específica da REV-004: pendente
 - Compartilhamento: linhas 442–452
 - Governança de dados: linhas 458–460
 - Cadeia documental: [[PROVENIENCIA]]
