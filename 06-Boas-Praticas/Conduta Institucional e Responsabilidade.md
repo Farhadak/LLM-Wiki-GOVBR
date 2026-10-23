@@ -70,6 +70,10 @@ pelos documentos produzidos.
 Recomenda a revisão crítica do conteúdo
 e a manutenção do julgamento humano.
 
+**Ressalva sobre responsabilidade — REV-003:** a atribuição de responsabilidade ao servidor reproduz a orientação operacional do guia sobre revisão, autoria e julgamento humano. Não constitui, por si só, determinação de responsabilidade jurídica exclusiva do servidor, nem afasta eventuais responsabilidades de gestores, órgãos públicos ou fornecedores.
+
+A distribuição jurídica de responsabilidades depende das normas aplicáveis, das atribuições institucionais e das circunstâncias concretas. Essa distinção está registrada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à verificação jurídica.
+
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 263, 330–332 e 488–490.
 
@@ -233,6 +237,9 @@ de cada situação.
 - Revisão institucional: linhas 273–280
 - Conduta e não discriminação: linhas 301–323
 - Responsabilidade: linhas 330–332
+- Responsabilidade operacional do servidor: linhas 126, 263, 332, 470 e 488
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+- Distribuição jurídica de responsabilidades: verificação pendente
 - Transparência do uso: linhas 334–337
 - Credenciais e dados: linhas 344–365
 - Direitos autorais: linhas 367–370
