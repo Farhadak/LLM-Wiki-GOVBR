@@ -74,6 +74,8 @@ O guia atribui ao servidor
 a responsabilidade pelos documentos
 e decisões produzidos com apoio de IAG.
 
+**Ressalva sobre responsabilidade — REV-003:** essa formulação reproduz a orientação operacional do guia quanto à revisão e à validação humanas. Não determina, isoladamente, a distribuição jurídica de responsabilidades entre servidores, gestores, órgãos públicos e fornecedores. Essa distinção está documentada em [[LGPD e Proteção de Dados na IA Generativa]] e permanece sujeita à verificação jurídica.
+
 Recomenda cautela com credenciais
 institucionais em plataformas externas,
 proteção de informações internas
@@ -93,11 +95,15 @@ ferramentas de IAG.
 
 Distingue soluções internas aprovadas,
 plataformas externas e alternativas
-de software livre ou código aberto.
+de software livre ou de código aberto.
 
 A fonte também recomenda cautela
 com o compartilhamento e a agregação
 de informações oficiais.
+
+**Ressalva sobre anonimização — REV-002:** o guia apresenta, na linha 140, técnicas como mascaramento, tokenização, generalização e o uso de dados sintéticos. Essas medidas podem contribuir para a proteção da privacidade, mas, por si sós, não garantem que os dados estejam juridicamente anonimizados nos termos da LGPD. A distinção está registrada em [[LGPD e Proteção de Dados na IA Generativa]].
+
+**Ressalva sobre modelos abertos — REV-004:** a disponibilidade pública de código, parâmetros ou documentação varia conforme a arquitetura e as condições de licenciamento de cada modelo. Além disso, as referências do guia, na linha 440, a exceções de transparência e obrigações relacionadas a dados de treinamento e direitos autorais não identificam expressamente o regime jurídico aplicável. Essas afirmações exigem verificação independente e estão documentadas em [[Normas e Orientações Institucionais para IA Generativa]].
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 418–452.
@@ -228,6 +234,14 @@ respectivos registros de rastreabilidade.
 - Escolha de ferramentas: linhas 418–452
 - Prompts e governança de dados: linhas 454–460
 - Competências digitais: linhas 462–480
+- Técnicas de proteção de dados: linha 140 — REV-002
+- Responsabilidade operacional do servidor: linhas 126, 263, 332 e 470 — REV-003
+- Modelos abertos e alegações regulatórias: linhas 438–440 — REV-004
+- Classificação regulatória de riscos: linhas 164 e 226 — REV-001
+- Constatação REV-001: [[Marco Legal da Inteligência Artificial no Brasil]]
+- Constatações REV-002 e REV-003: [[LGPD e Proteção de Dados na IA Generativa]]
+- Constatação REV-004: [[Normas e Orientações Institucionais para IA Generativa]]
+- Verificação jurídica das constatações: pendente
 - Cadeia documental: [[PROVENIENCIA]]
 - Natureza: síntese e análise editorial
 - Revisão humana: pendente
