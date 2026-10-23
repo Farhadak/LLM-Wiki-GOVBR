@@ -44,6 +44,10 @@ como conteúdo do guia, sem presumir
 que o projeto tenha se convertido
 em lei vigente.
 
+**Ressalva regulatória — REV-001:** embora a linha 164 identifique expressamente o PL 2338/2023 como projeto em discussão, o guia utiliza expressões que podem sugerir a existência de um regime jurídico já estabelecido. A linha 226 também afirma que determinados requisitos seriam exigidos por lei, sem identificar nesse trecho uma norma vigente que os estabeleça.
+
+Essa inconsistência documental está registrada na constatação REV-001, em [[Marco Legal da Inteligência Artificial no Brasil]]. A vigência e a aplicabilidade de obrigações regulatórias exigem verificação jurídica independente.
+
 ## 3. Risco excessivo
 
 O guia descreve como risco excessivo
@@ -176,6 +180,12 @@ As categorias documentais
 não substituem uma avaliação
 específica do caso de uso.
 
+**Sobreposição entre categorias:** o guia apresenta aplicações de recursos humanos tanto na categoria de alto risco (linha 188) quanto na de risco moderado (linha 216). Também menciona sistemas de recomendação nas categorias moderada (linha 218) e baixa (linha 230).
+
+Essas ocorrências são preservadas como características da fonte documental. Sua interpretação requer considerar a finalidade, o contexto, as consequências potenciais e os critérios normativos aplicáveis a cada sistema.
+
+A avaliação técnica do risco e o enquadramento jurídico são análises relacionadas, mas distintas. Esta observação constitui uma elaboração editorial e não representa uma interpretação jurídica oficial.
+
 Esta seção constitui
 interpretação editorial.
 
@@ -223,6 +233,11 @@ por esta nota.
 - Documento: [[guia-ia-generativa-normalizado]]
 - Análise prévia de riscos: linha 104
 - Origem da classificação: linhas 162–164
+- Referência ao PL 2338/2023: linha 164
+- Linguagem de obrigação legal no baixo risco: linha 226
+- Sobreposição em recursos humanos: linhas 188 e 216
+- Sobreposição em sistemas de recomendação: linhas 218 e 230
+- Constatação relacionada: REV-001 — [[Marco Legal da Inteligência Artificial no Brasil]]
 - Risco excessivo: linhas 166–178
 - Alto risco: linhas 180–210
 - Risco moderado: linhas 212–222
