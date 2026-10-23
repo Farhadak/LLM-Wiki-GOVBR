@@ -63,7 +63,7 @@ Notas associadas:
 - [[Vieses na IA Generativa]]
 - [[Classificação de Riscos dos Sistemas de IA]]
 
-**Questão orientadora:** Quais riscos podem afetar a qualidade, a segurança, a equidade e a confiabilidade dos resultados?
+**Questão orientadora:** quais riscos podem afetar a qualidade, a segurança, a equidade e a confiabilidade dos resultados?
 
 A análise de riscos deve estar relacionada à finalidade do uso, ao contexto institucional e à necessidade de supervisão humana.
 
@@ -259,7 +259,21 @@ Essas relações são interpretações editoriais, salvo quando explicitamente a
 
 Este mapa não estabelece hierarquia normativa entre documentos, não confirma a eficácia de aplicações institucionais e não substitui avaliação humana, jurídica ou técnica.
 
-Referências externas cuja verificação esteja pendente devem conservar essa indicação nas notas correspondentes.
+Referências externas cuja verificação esteja pendente devem manter essa indicação nas notas correspondentes.
+
+### 5.4. Harmonização com as revisões REV-001 a REV-005
+
+Este mapa incorpora, por remissão às notas temáticas, as ressalvas documentadas durante a revisão editorial da Wiki:
+
+- **REV-001 — Enquadramento normativo:** distinguir legislação vigente, proposições legislativas e orientações institucionais, sem atribuir força de lei a projetos ainda em tramitação.
+- **REV-002 — Proteção de dados:** distinguir técnicas de proteção e desidentificação de anonimização juridicamente caracterizada, observando a LGPD e o contexto do tratamento.
+- **REV-003 — Supervisão e responsabilidade:** diferenciar deveres operacionais de revisão humana, responsabilidades institucionais e eventual atribuição de responsabilidade jurídica.
+- **REV-004 — Ferramentas e modelos:** distinguir as características técnicas de modelos abertos, a autorização institucional de uso e as obrigações legais aplicáveis.
+- **REV-005 — Integridade bibliográfica:** preservar os endereços da REF-010 e registrar os limites da verificação documental no catálogo [[Referências]].
+
+Essas revisões representam controles editoriais e ressalvas metodológicas. Não constituem aprovação jurídica ou validação independente das fontes.
+
+**Situação:** harmonização editorial em andamento; revisões humanas e jurídicas e verificação externa das fontes permanecem pendentes.
 
 ## 6. Manutenção e evolução do mapa
 
@@ -269,8 +283,8 @@ A atualização do mapa deverá observar os seguintes critérios:
 - Verificar a integridade dos links após renomeações ou reorganizações.
 - Incluir novas notas somente quando houver justificativa temática e fonte identificável.
 - Manter separadas as afirmações da fonte principal e as interpretações editoriais.
-- Atualizar a situação das revisões humanas, jurídicas e documentais.
-- Registrar mudanças relevantes no controle de versões do repositório.
+- Atualizar o status das revisões humanas, jurídicas e documentais.
+- Registrar mudanças relevantes no controle de versão do repositório.
 - Rever os percursos de navegação quando forem acrescentadas novas áreas ou aplicações.
 
 **Estado atual:** mapa integrado em versão preliminar.
@@ -281,6 +295,7 @@ A atualização do mapa deverá observar os seguintes critérios:
 
 **Verificação das fontes externas:** pendente.
 
-**Próxima etapa:** auditoria estrutural e dos links internos, seguida de integração à página [[INDEX]] da Wiki.
+**Integração à navegação:** realizada por meio da página [[INDEX]] da Wiki.
 
+**Próxima etapa:** auditoria global de pré-publicação, incluindo a integridade dos links internos, a consistência dos metadados, a rastreabilidade documental e a preparação da versão beta.
 
