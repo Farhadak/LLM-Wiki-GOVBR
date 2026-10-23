@@ -65,6 +65,8 @@ Esta última distinção constitui
 análise editorial e exige
 fundamentação técnica e jurídica adicional.
 
+Essa distinção está documentada na constatação REV-002, em [[LGPD e Proteção de Dados na IA Generativa]]. A utilização de mascaramento, tokenização, generalização ou dados sintéticos não comprova, isoladamente, a anonimização nos termos da LGPD. A avaliação depende das características dos dados, do contexto de tratamento e do risco de reidentificação.
+
 ## 4. Seleção e autorização de ferramentas
 
 O guia recomenda considerar
@@ -77,6 +79,8 @@ para tratar informações protegidas.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 355, 420 e 424.
+
+A aprovação de ferramentas deve ser verificada no âmbito de cada órgão. Os exemplos institucionais mencionados na linha 424, relativos ao Tribunal de Contas da União, não constituem autorização geral de utilização por outros órgãos públicos. Esta ressalva constitui análise editorial.
 
 ## 5. Plataformas externas e uso dos dados
 
@@ -131,6 +135,8 @@ As recomendações operacionais do guia
 não substituem a análise das disposições
 legais aplicáveis a cada tratamento.
 
+A atribuição de responsabilidade operacional ao servidor, apresentada pelo guia, não determina, por si só, a distribuição jurídica de responsabilidades entre servidores, gestores, órgãos públicos e fornecedores. Essa questão está registrada na constatação REV-003, em [[LGPD e Proteção de Dados na IA Generativa]], e permanece sujeita à análise das normas aplicáveis e das circunstâncias concretas.
+
 Esta análise é editorial e não representa
 posição oficial da SGD ou do SERPRO.
 
@@ -183,3 +189,7 @@ e jurídica conforme o caso concreto.
 - Natureza: síntese e análise editorial
 - Verificação jurídica: pendente
 - Revisão humana: pendente
+- Constatação relacionada: REV-002 — [[LGPD e Proteção de Dados na IA Generativa]]
+- Constatação relacionada: REV-003 — [[LGPD e Proteção de Dados na IA Generativa]]
+
+**Ressalva documental:** as orientações sobre anonimização, ferramentas aprovadas e responsabilidade do servidor foram verificadas nas linhas 140, 355, 424, 486, 488 e 490 do guia. Sua reprodução nesta nota não constitui certificação de conformidade com a LGPD, autorização institucional de ferramentas ou parecer jurídico sobre a distribuição de responsabilidades.
