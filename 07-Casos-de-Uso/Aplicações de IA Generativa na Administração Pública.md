@@ -38,6 +38,7 @@ A síntese não substitui a consulta ao documento original quando houver efeitos
 **Salvaguardas editoriais recomendadas:** comparação com a fonte, verificação de omissões e registro das referências utilizadas.
 
 **Fonte:** guia, linha 376.
+
 ## 4. Consulta a normas e regulamentos
 
 O guia apresenta a IAG como recurso de apoio ao acesso e à interpretação das normas.
@@ -62,9 +63,12 @@ O guia também cita assistentes conectados a bases de conhecimento, apoio à pro
 
 Não identifica, nesse trecho, um órgão responsável pela implantação específica.
 
+**Ressalva documental:** a descrição dessas funcionalidades pelo guia não comprova a implantação, o desempenho ou a conformidade institucional. A utilização de modelos fechados também exige a avaliação das condições de tratamento de dados, de segurança e de auditabilidade. Ver [[Governança e Proteção de Dados na IA Generativa]] e [[Critérios de Escolha de Ferramentas]].
+
 **Salvaguardas editoriais recomendadas:** controle de acesso, qualidade da base consultada, supervisão humana e possibilidade de encaminhar casos sensíveis a servidores responsáveis.
 
 **Fonte:** guia, linha 56.
+
 ## 7. Condições para avaliação institucional
 
 Antes de adotar qualquer aplicação, recomenda-se documentar, como proposta editorial de governança:
@@ -79,6 +83,16 @@ Antes de adotar qualquer aplicação, recomenda-se documentar, como proposta edi
 - Critérios para continuar, adaptar ou interromper o uso.
 
 Esses critérios são uma sistematização editorial, não uma transcrição de requisitos legais.
+
+### Ressalvas de governança — REV-002, REV-003 e REV-004
+
+**REV-002 — Proteção de dados:** o emprego de dados mascarados, pseudonimizados ou sintéticos não assegura, isoladamente, anonimização juridicamente efetiva. A avaliação deve considerar a possibilidade de reidentificação, a finalidade do tratamento e as normas aplicáveis. Ver [[LGPD e Proteção de Dados na IA Generativa]].
+
+**REV-003 — Supervisão e responsabilidade:** a revisão humana é uma salvaguarda operacional. A atribuição de responsabilidade final ao servidor, conforme a orientação do guia, não estabelece automaticamente responsabilidade jurídica individual exclusiva. Devem ser consideradas as competências e responsabilidades institucionais. Ver [[Supervisão Humana e Responsabilidade]].
+
+**REV-004 — Autorização de ferramentas:** a aprovação institucional de uma solução não autoriza indistintamente todas as finalidades, categorias de dados ou formas de utilização. Alegações sobre possíveis exceções regulatórias aplicáveis a modelos de código aberto exigem verificação jurídica específica. Ver [[Normas e Orientações Institucionais para IA Generativa]].
+
+Essas ressalvas constituem análise editorial, sujeita à verificação jurídica.
 
 ## 8. Conexões com a Wiki
 
@@ -98,6 +112,16 @@ Esses critérios são uma sistematização editorial, não uma transcrição de 
 **Documento de referência:** [[guia-ia-generativa-normalizado]].
 
 **Trechos utilizados:** linhas 56 e 372–380.
+
+**Riscos associados aos modelos fechados:** linhas 58–62.
+
+**Proteção de dados — REV-002:** linhas 138–140 e 444–452.
+
+**Supervisão e responsabilidade — REV-003:** linhas 468–470 e 486–490.
+
+**Aprovação de ferramentas e código aberto — REV-004:** linhas 418–440.
+
+**Verificação jurídica das constatações REV-002, REV-003 e REV-004:** pendente.
 
 **Natureza:** síntese documental com recomendações editoriais explicitamente identificadas.
 
