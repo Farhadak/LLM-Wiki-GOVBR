@@ -51,6 +51,8 @@ de determinados modelos abertos.
 **Referência:** [[guia-ia-generativa-normalizado]],
 linha 438.
 
+A disponibilização pública de parâmetros e informações sobre arquitetura não é uma característica universal de todos os modelos distribuídos sob licenças abertas. O grau efetivo de transparência depende dos componentes disponíveis e das condições específicas de cada modelo. Esta ressalva constitui uma análise técnica editorial.
+
 O guia também menciona possíveis exceções
 e obrigações regulatórias relacionadas
 a modelos disponibilizados sob licenças
@@ -63,6 +65,8 @@ como orientação normativa.
 **Referência:** [[guia-ia-generativa-normalizado]],
 linha 440.
 
+A ausência de identificação expressa da legislação, da jurisdição e dos dispositivos que fundamentariam essas exceções e obrigações está registrada na constatação REV-004, em [[Normas e Orientações Institucionais para IA Generativa]]. Sua aplicabilidade jurídica à administração pública brasileira permanece pendente de verificação.
+
 ## 4. Transparência do conteúdo e explicabilidade
 
 O guia desaconselha apresentar conteúdo
@@ -72,6 +76,8 @@ humana sem a devida transparência.
 Também destaca a necessidade de revisão
 crítica dos resultados e menciona
 a explicabilidade como princípio ético.
+
+Nas linhas 334–337, a identificação da participação da IA na elaboração de documentos é apresentada como boa prática, enquanto a omissão dessa participação é desaconselhada. Essas orientações não demonstram, isoladamente, a existência de uma obrigação legal universal de identificação.
 
 **Referências:** [[guia-ia-generativa-normalizado]],
 linhas 334–337, 470 e 496.
@@ -146,3 +152,7 @@ e da validação humana.
 - Natureza: síntese e análise editorial
 - Verificação jurídica: pendente
 - Revisão humana: pendente
+- Constatação relacionada: REV-001 — [[Marco Legal da Inteligência Artificial no Brasil]]
+- Constatação relacionada: REV-004 — [[Normas e Orientações Institucionais para IA Generativa]]
+
+**Ressalva documental:** a referência à linha 214 refere-se à apresentação de requisitos de transparência e explicabilidade no contexto da classificação de riscos descrita no guia. Não comprova, por si só, a exigibilidade de sua obrigação legal vigente no Brasil. A interpretação normativa permanece sujeita à verificação jurídica.
