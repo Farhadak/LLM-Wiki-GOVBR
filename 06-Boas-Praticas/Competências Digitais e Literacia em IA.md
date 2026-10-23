@@ -67,6 +67,10 @@ A competência crítica inclui reconhecer
 incertezas e distinguir uma resposta
 plausível de uma afirmação verificada.
 
+**Ressalva sobre responsabilidade — REV-003:** o guia atribui ao servidor a revisão dos resultados e a responsabilidade final por documentos e decisões. Essa formulação expressa uma orientação de responsabilidade operacional e supervisão humana, mas não estabelece, por si só, responsabilidade jurídica exclusiva do servidor.
+
+A definição de responsabilidades jurídicas depende das normas aplicáveis, das competências institucionais e das circunstâncias concretas. Ver [[Conduta Institucional e Responsabilidade]] e [[Supervisão Humana e Responsabilidade]].
+
 ### Identificação de alucinações
 
 O guia caracteriza alucinações como
@@ -139,6 +143,10 @@ Convém distinguir competências individuais
 de capacidades organizacionais: um servidor
 capacitado continua dependendo de políticas,
 ferramentas autorizadas e supervisão.
+
+**Implicação para a capacitação — REV-003:** a formação deve distinguir o dever funcional de verificar resultados, a competência para autorizar decisões e os diferentes regimes de responsabilização eventualmente aplicáveis.
+
+A literacia em IA não transfere automaticamente ao servidor toda a responsabilidade jurídica decorrente do uso institucional da tecnologia. Essa delimitação constitui análise editorial e permanece sujeita à verificação jurídica.
 
 A formação deve preservar a autonomia
 intelectual e evitar dependência acrítica
@@ -236,6 +244,10 @@ de avaliação de desempenho.
 - Governança de dados: linhas 458–460
 - Competências e alfabetização: linhas 462–466
 - Revisão crítica: linhas 468–470
+- Responsabilidade operacional e supervisão: linhas 468–470 e 486–490
+- Constatação REV-003: [[Conduta Institucional e Responsabilidade]]
+- Distinção entre responsabilidade operacional e jurídica: análise editorial
+- Verificação jurídica específica da REV-003: pendente
 - Alucinações e vieses: linhas 472–474
 - Literacia e capacitação: linhas 476–480
 - Considerações finais: linhas 484–498
