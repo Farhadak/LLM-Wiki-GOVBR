@@ -7,3 +7,6 @@ __pycache__/
 
 # MkDocs - arquivos gerados
 site/
+
+# MkDocs - Markdown gerado automaticamente
+/docs-public/

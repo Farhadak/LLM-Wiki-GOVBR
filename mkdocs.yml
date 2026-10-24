@@ -1,0 +1,32 @@
+site_name: Wiki de IA Generativa na Administração Pública
+site_description: >-
+  Base de conhecimento editorial derivada do Guia de
+  Inteligência Artificial Generativa do Governo Federal.
+  Publicação beta, com revisão humana e jurídica pendentes.
+
+docs_dir: docs-public
+site_dir: site
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+validation:
+  links:
+    not_found: warn
+    unrecognized_links: warn
